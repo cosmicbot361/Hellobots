@@ -1,0 +1,2 @@
+- name: Deploy to Northflank
+  uses: northflank/deploy-to-northflank@v1.0.0
